@@ -1,0 +1,87 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+/* Header */
+header {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    border-bottom: 2px solid black;
+}
+
+header li {
+    display: inline;
+    padding: 20px;
+    font-weight: bold;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+}
+
+header ul {
+    margin-left: auto;
+    margin-right: 250px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin-left: 350px;
+    margin-bottom: 20px;
+}
+
+header li:hover {
+    background-color: rgba(198, 189, 189, 0.8);
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+/* About Me */
+img {
+    height: 390px;
+    width: 260px;
+    margin-left: 260px;
+}
+
+.AboutMe {
+    display: flex;
+    margin-top: 40px;
+}
+
+.AboutMeTxt {
+    width: 50%;
+    margin-left: 40px;
+}
+
+.AboutMeTxt h2 {
+    font-size: 30px;
+}
+
+.AboutMeTxt p {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+/* Footer */
+footer {
+    margin-top: 75px;
+    border-top: 2px solid black;
+    margin-bottom: 10px;
+}
+
+footer p {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+footer li {
+    font-size: 20px;
+    padding-top: 5px;
+}
