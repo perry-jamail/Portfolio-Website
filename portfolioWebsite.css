@@ -169,3 +169,18 @@ footer li {
 .HGSonclick {
     display: none;
 }
+
+.MMonclick button {
+    font-size: 20px;
+    background-color: red;
+}
+
+.CCConclick button {
+    font-size: 20px;
+    background-color: red;
+}
+
+.HGSonclick button {
+    font-size: 20px;
+    background-color: red;
+}
