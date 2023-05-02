@@ -85,3 +85,87 @@ footer li {
     font-size: 20px;
     padding-top: 5px;
 }
+
+/* Projects */
+.MixedMessages img {
+    height: 206px;
+    width: 597px;
+    margin-right: 250px;
+    margin-top: 5px;
+}
+
+.projectsMain h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+.projectsMain p {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.MMGitHubLink {
+    color: blue;
+    text-decoration: underline;
+}
+
+.MMGitHubLink:hover {
+    text-decoration: none;
+}
+
+.projectsMain button {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.projectsMain button:hover {
+    cursor: pointer;
+}
+
+.MMonclick {
+    display: none;
+}
+
+.CanyonCreek img {
+    height: 258px;
+    width: 737px;
+    margin-right: 250px;
+    margin-top: 5px;
+}
+
+.CCCGitHubLink {
+    color: blue;
+    text-decoration: underline;
+}
+
+.CCCGitHubLink:hover {
+    text-decoration: none;
+}
+
+.CCConclick {
+    display: none;
+}
+
+.HGSonclick img {
+    height: 398px;
+    width: 896px;
+    margin-right: 250px;
+    margin-top: 5px;
+}
+
+.HGSGitHubLink {
+    color: blue;
+    text-decoration: underline;
+}
+
+.HGSGitHubLink:hover {
+    text-decoration: none;
+}
+
+.HGSonclick {
+    display: none;
+}
