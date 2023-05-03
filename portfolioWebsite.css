@@ -184,3 +184,22 @@ footer li {
     font-size: 20px;
     background-color: red;
 }
+
+/* Skills */
+.skillsMain h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+.skillsList {
+    font-size: 20px;
+    list-style-type: disc;
+    margin-left: 725px;
+    width: 100px;
+}
+
+.skillsMain p {
+    font-size: 20px;
+}
